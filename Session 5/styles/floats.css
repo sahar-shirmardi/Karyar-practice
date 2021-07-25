@@ -1,0 +1,39 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.page {
+    /* margin: 0 auto; */
+    /* border: 3px solid red; */
+    /* border: 5px solid red; */
+    width: 900px;
+    margin: 0 auto;
+}
+
+.menu {
+    height: 100px;
+    background-color: #B2D6FF;
+}
+  
+.sidebar {
+    height: 300px;
+    width: 200px;
+    background-color: #F09A9D;
+    margin: 0 auto;
+    float: right;
+}
+  
+.content {
+    height: 500px;
+    width: 650px;
+    background-color: #F5CF8E;
+    float: right;
+}
+  
+.footer {
+    clear: both;
+    height: 200px;
+    background-color: #D6E9FE;
+}
