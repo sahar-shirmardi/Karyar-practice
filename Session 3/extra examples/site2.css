@@ -1,0 +1,11 @@
+#myParaById {
+  color: red;
+}
+
+.myParaByClass {
+  color: goldenrod;
+}
+
+span {
+  color: cadetblue;
+}

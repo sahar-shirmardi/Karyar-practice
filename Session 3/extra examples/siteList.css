@@ -1,0 +1,8 @@
+ul.myList {
+  list-style-type: square;
+}
+
+ul {
+  list-style-image: url("source/image/bg.png");
+  list-style-position: inside;
+}

@@ -1,0 +1,19 @@
+a:link {
+  color: darkorange;
+}
+
+a:hover {
+  color: aqua;
+}
+
+a:active {
+  color: chartreuse;
+}
+
+a:visited {
+  color: yellow;
+}
+
+a {
+  text-decoration: none;
+}
