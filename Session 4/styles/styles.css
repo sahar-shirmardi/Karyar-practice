@@ -1,0 +1,14 @@
+body {
+    background-color: cornflowerblue;
+    color: honeydew;
+    font-size: small;
+}
+
+.button {
+    color:hotpink;
+    font-size: large;
+}
+
+#button {
+    font-size:x-large;
+}

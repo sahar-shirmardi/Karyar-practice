@@ -1,0 +1,17 @@
+.myPara {
+  position: fixed;
+  top: 50px;
+  right: 10px;
+}
+
+.myParaRelative {
+  position: relative;
+  right: -100px;
+  top: -100px;
+}
+
+.myParaAbsoulte {
+  position: absolute;
+  top: 200px;
+  right: 150px;
+}

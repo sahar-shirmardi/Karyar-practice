@@ -1,0 +1,59 @@
+body{
+    background-color: bisque;
+}
+
+.first-child {
+    background-color: aquamarine;
+    /* position: static; */
+    
+    /* position: relative;
+    left: 30px;
+    top: 50px; */
+
+    /* position: sticky;
+    top: 0; */
+}
+
+.first-child span {
+    background-color: azure;
+    
+    /* position: static; */
+    
+    /* position: absolute;
+    right: 0; */
+}
+
+.second-child {
+    background-color: darkorange;
+    
+    /* position: static; */
+
+    /* position: fixed;
+    left: 0px;
+    bottom: 0px;
+    width: 300px; */
+
+}
+
+.third-child {
+    background-color:slateblue;
+    
+    /* position: static; */
+}
+
+.colliding {
+    color: white;
+    
+    /* position: absolute; */
+}
+
+.colliding#bottom {
+    background-color: darkblue;
+}
+
+.colliding#top {
+    background-color: darkred;
+    
+    /* top: 140px;
+    z-index: -1; */
+}
