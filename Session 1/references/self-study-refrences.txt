@@ -1,6 +1,0 @@
-References:
-https://www.w3schools.com
-https://stackoverflow.com
-
-Persian course:
-https://webprog.io/course/%D8%A2%D9%85%D9%88%D8%B2%D8%B4-HTML5-CSS3-%D9%BE%D8%B1%D9%88%DA%98%D9%87-%D9%85%D8%AD%D9%88%D8%B1
